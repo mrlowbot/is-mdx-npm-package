@@ -1,0 +1,26 @@
+{
+  "name": "is-mdx",
+  "version": "1.0.0",
+  "description": "Is the file an mdx file?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlowbot/is-mdx-npm-package.git"
+  },
+  "keywords": [
+    "MDX"
+  ],
+  "author": "mrlowbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlowbot/is-mdx-npm-package/issues"
+  },
+  "homepage": "https://github.com/mrlowbot/is-mdx-npm-package#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
